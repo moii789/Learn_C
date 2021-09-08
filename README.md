@@ -1,2 +1,2 @@
 # Learn_C++
-Learn C++ by making Linked List and Binary Search Tree 
+Learn C++ by implementing the sata structures: Linked List and Binary Search Tree 
